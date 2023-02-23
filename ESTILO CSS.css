@@ -1,0 +1,63 @@
+
+
+
+Body {Background-color : rgb(157, 255, 0);
+    
+
+}
+
+
+
+h1 , h2 , h3, p , h4{ align:center;}
+
+p {color: brown;  Background-color : rgb(0, 217, 255);}
+h1 {color:blue;  Background-color : rgb(255, 0, 0);}
+h2 {color:rgb(255, 127, 127); Background-color :yellow;}
+h3 {color:blueviolet; Background-color : rgb(0, 183, 255);}
+h4 {color:whitesmoke; Background-color : rgb(47, 0, 255);}
+
+
+p , h1 , h2 , h3 , h4 { font-family: Arial, Helvetica, sans-serif; }
+   
+
+h1{border: 1px solid gold;
+    
+    padding: 5px red;
+    margin-top: 60px;
+    margin-bottom: 40px;
+    margin-left: 120px ;
+    } 
+
+   h2{border: 1px solid greenyellow;
+        padding: 5px red;
+        margin-top: 60px;
+        margin-bottom: 40px;
+        margin-left: 120px ;
+        } 
+        
+  p {border: 1px solid rgb(25, 0, 255);
+            padding: 5px red;
+            margin-top: 60px;
+            margin-bottom: 40px;
+            margin-left: 120px ;
+            } 
+  
+    h3{border: 1px solid violet;
+                padding: 5px red;
+                margin-top: 60px;
+                margin-bottom: 40px;
+                margin-left: 120px ;
+                } 
+   
+ h4{border: 1px solid rgb(236, 238, 130);
+                    padding: 5px red;
+                    margin-top: 60px;
+                    margin-bottom: 40px;
+                    margin-left: 120px ;
+                    }             
+
+
+                    #demo {
+                        color: brown;
+                        background-color: rgb(229, 255, 196);
+                    }
